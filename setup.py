@@ -14,7 +14,7 @@ classes = """
     License :: OSI Approved :: BSD License
     Topic :: Scientific/Engineering
     Topic :: Scientific/Engineering :: Bio-Informatics
-    Programming Language :: Python :: 3.6
+    Programming Language :: Python :: 3.7
     Programming Language :: Python :: 3 :: Only
     Operating System :: Unix
     Operating System :: POSIX
