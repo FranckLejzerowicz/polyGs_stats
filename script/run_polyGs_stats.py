@@ -11,10 +11,11 @@ import click
 from polyGs_stats.polyGs_stats import polyGs_stats
 from polyGs_stats import __version__
 
+
 @click.command()
 @click.option(
     "-i", "--i-folders", required=True, multiple=True,
-    help="Folder of parse for fastq and/or faqst.gz files."
+    help="Folder of parse for fastq and/or fastq.gz files."
 )
 @click.option(
     "-o", "--o-table", required=True, type=str,
